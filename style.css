@@ -189,7 +189,7 @@ body {
 
     padding: 12px 15px;
 
-    background-color: #80deea; 
+    background-color: #18FBEA; 
 
     color: #004d40; 
 
@@ -204,7 +204,7 @@ body {
    
 
 
-    box-shadow: 4px 4px 0px #00acc1;
+    box-shadow: 4px 4px 0px #0e9990;
 
    
 
@@ -218,11 +218,11 @@ body {
 
 .boton-github:hover {
 
-    background-color: #4dd0e1;
+    background-color: #15d3c7;
 
     transform: translate(2px, 2px);
 
-    box-shadow: 2px 2px 0px #00acc1;
+    box-shadow: 2px 2px 0px #07716a;
 
 }
 
